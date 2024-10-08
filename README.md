@@ -39,6 +39,6 @@ This project uses logistic regression to predict whether a house is a new or old
    * has_garden
    * buy_price
 6. **Target Feature:** is_new_development
-7. **Note:**
+7. **Note:** the dataset exhibits a significant class imbalance, with a majority of instances representing old developments. As a result, the model tends to be biased towards predicting the majority class (old houses), leading to a failure in accurately detecting the minority class (new developments). Future improvements to the code should incorporate techniques to address this.
 
 Feel free to explore the code and maybe even pick up a few ideas for your own projects! 🚀
