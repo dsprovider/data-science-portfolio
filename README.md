@@ -6,9 +6,10 @@ Each project covers different aspects of data science, from data exploration and
 
 # 🏠 **Housing Price Prediction**
 This project involves creating a regression model to predict house prices based on various features such as square meters, heating options, and garden availability.
-  1. Dataset: https://www.kaggle.com/datasets/mirbektoktogaraev/madrid-real-estate-market
-  2. Models used: **K-Nearest Neighbors (KNN)** and **Decision Tree Regression**.
-  3. Input Features:
+  1. Script: house_price_predictor.py 
+  2. Dataset: https://www.kaggle.com/datasets/mirbektoktogaraev/madrid-real-estate-market
+  3. Models used: **K-Nearest Neighbors (KNN)** and **Decision Tree Regression**.
+  4. Input Features:
      * sq_mt_built
      * n_rooms
      * n_bathrooms
