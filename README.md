@@ -24,6 +24,21 @@ This project involves creating a regression model to predict house prices based 
   6. **Note:** for simplicity, the model currently does not consider categorical parameters such as neighborhood or energy certificate. Future improvements should aim to incorporate these factors into the code.
 
 # 🏢 **Apartment Condition Classification**
-A classification model to predict whether an apartment is new or not, using various property features.
+This project uses logistic regression to predict whether a house is a new or old development based on various features such as size, number of rooms, bathrooms, and additional amenities.
+1. **Script:** house_development_status_predictor.py
+2. **Dataset:** https://www.kaggle.com/datasets/mirbektoktogaraev/madrid-real-estate-market
+3. **Models used:** Logistic Regression
+4. **Input Features:**
+   * sq_mt_built
+   * sq_mt_useful
+   * n_rooms
+   * n_bathrooms
+   * has_central_heating
+   * has_individual_heating
+   * has_lift
+   * has_garden
+   * buy_price
+6. **Target Feature:** is_new_development
+7. **Note:**
 
 Feel free to explore the code and maybe even pick up a few ideas for your own projects! 🚀
