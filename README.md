@@ -21,7 +21,7 @@ This project involves creating a regression model to predict house prices based 
      * has_private_parking
      * has_garden
   5. **Target Feature:** buy_price 
-  6. 💡 For simplicity, the model currently does not consider categorical parameters such as neighborhood or energy certificate. Future improvements should aim to incorporate these factors into the code.
+  6. **Note:** for simplicity, the model currently does not consider categorical parameters such as neighborhood or energy certificate. Future improvements should aim to incorporate these factors into the code.
 
 # 🏢 **Apartment Condition Classification**
 A classification model to predict whether an apartment is new or not, using various property features.
